@@ -33,7 +33,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Harshil-Gupta&theme=dark" width="48%" >
 <br>
 
-### Contact with me
+### Contact me
 
 <div align="center">
   
