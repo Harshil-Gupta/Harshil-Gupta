@@ -1,4 +1,4 @@
-## Hi there! I am [Harshil Gupta](https://github.com/Harshil-Gupta) 👋
+## Hi there! I am [Harshil Gupta](https://harshil-gupta.github.io/Portfolio/) 👋
 
 ### About me
 
