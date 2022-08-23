@@ -3,7 +3,7 @@
 ### About me
 
 - 🌱 I’m currently learning the MERN stack.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 2022 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to learn new skills.
 - 📫 How to reach me: Message me on any of my social accounts given below.
 - 😄 Pronouns: He/Him
